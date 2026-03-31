@@ -6,7 +6,7 @@
 !\[ML](https://img.shields.io/badge/ML-Scikit--Learn-orange)
 !\[Status](https://img.shields.io/badge/Status-Complete-green)
 
-\---
+
 
 ## &#x20;Problem Statement
 
@@ -14,7 +14,7 @@ Air pollution is a major health crisis in India and globally. Predicting the **A
 
 This project uses **Machine Learning** to predict AQI values based on key pollutant and weather parameters.
 
-\---
+
 
 ## &#x20;Objective
 
@@ -22,7 +22,7 @@ This project uses **Machine Learning** to predict AQI values based on key pollut
 * Compare multiple ML models and select the best performing one
 * Visualize key patterns in air quality data
 
-\---
+
 
 ## &#x20;Dataset Features
 
@@ -39,7 +39,7 @@ This project uses **Machine Learning** to predict AQI values based on key pollut
 |Wind\_Speed|Wind Speed (m/s)|
 |**AQI**|**Target Variable**|
 
-\---
+
 
 ## &#x20;ML Models Used
 
@@ -47,7 +47,7 @@ This project uses **Machine Learning** to predict AQI values based on key pollut
 * Decision Tree Regressor
 * Random Forest Regressor ✅ *(Best Performer)*
 
-\---
+
 
 ## &#x20;Evaluation Metrics
 
@@ -55,7 +55,7 @@ This project uses **Machine Learning** to predict AQI values based on key pollut
 * **MAE** – Mean Absolute Error
 * **RMSE** – Root Mean Squared Error
 
-\---
+
 
 ## &#x20;How to Run
 
@@ -92,7 +92,7 @@ air\_quality\_predictor/
 └── README.md             # Project documentation
 ```
 
-\---
+
 
 ## &#x20;AQI Categories
 
@@ -105,7 +105,7 @@ air\_quality\_predictor/
 |201 - 300|Very Unhealthy|Health alert|
 |301+|Hazardous|Emergency conditions|
 
-\---
+
 
 ## &#x20;Future Scope
 
@@ -114,14 +114,18 @@ air\_quality\_predictor/
 * Implement deep learning (LSTM) for time-series AQI prediction
 * Add city-wise AQI maps using Folium
 
-\---
 
-## &#x20;Author
 
-**Your Name**
-College Name | Department | Year
+## ABOUT ME
 
-\---
+**YATHAM JATHINDRA REDDY**
+
+COLLAGE :VIT BHOPAL 
+
+COURSE  :CSE AI AND ML
+
+YEAR    :2025 - 29
+
 
 ## &#x20;License
 
