@@ -1,4 +1,4 @@
-# -AQI-Predictor
+# AQI-Predictor
 (AI AND ML )PROJECT
 # &#x20;Air Quality Index (AQI) Predictor
 
